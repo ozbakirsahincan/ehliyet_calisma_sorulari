@@ -2,15 +2,15 @@ Ehliyet Calisma Konulari
 
 # Kisitli Fiziksel Kabiliyetler
 
-1-> Seritten cikmaya sebep olabilecek unsular
+## 1-> Seritten cikmaya sebep olabilecek unsular
     - Yorgunluk
     - Dikkatsizlik
     - Baska birseyle ugrasma
-2-> Surus esnasinda artik yorulmaya basladiginizi gosteren isaretler nelerdir ?
+## 2-> Surus esnasinda artik yorulmaya basladiginizi gosteren isaretler nelerdir ?
     - Goz kapaklarinin agirlasmasi
     - Sik Sik esneme
     Not : Reaksiyon suresi uzar . Siklarda kisalmasi olarak var ama bu yanlis olan
-3-> Surus esnasindaki yorgunluk belirtilerini goz ardi etmeniz hangi sonuclara yol acabilir ?
+## 3-> Surus esnasindaki yorgunluk belirtilerini goz ardi etmeniz hangi sonuclara yol acabilir ?
     - Konsantrasyon eksikligine
     - Saniyelik uykuya
     - Surus hatalarina
